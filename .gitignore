@@ -1,0 +1,3 @@
+test-kubeconfigs
+*kubeconfig.yaml
+*.exe
